@@ -29,7 +29,7 @@
      ```
 
 4. **Install Dependency**: 
-   - Jika Anda baru pertama kali menginstall Python atau library, jalankan perintah berikut untuk menginstall library `requests` dan `fake_useragent`:
+   - Jika Anda baru pertama kali menginstall Python atau library, jalankan perintah berikut untuk menginstall library `requests fake_useragent` dan `colorama` :
      ```bash
      pip install requests fake_useragent colorama
      ```
