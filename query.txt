@@ -1,0 +1,2 @@
+query_id=your_telegram_token_1
+query_id=your_telegram_token_2
