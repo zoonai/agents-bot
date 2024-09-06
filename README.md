@@ -31,12 +31,12 @@
 4. **Install Dependency**: 
    - Jika Anda baru pertama kali menginstall Python atau library, jalankan perintah berikut untuk menginstall library `requests` dan `fake_useragent`:
      ```bash
-     pip install requests fake_useragent colorama time 
+     pip install requests fake_useragent colorama
      ```
 
 5. **Auto Claim & Delay**:
    - Bot akan secara otomatis menjalankan klaim task setiap 24 jam.
-   - Jika Anda ingin mengubah durasi delay, silakan edit nilai pada fungsi `time.sleep(86400)` di kode.
+   - Jika Anda ingin mengubah durasi delay, silakan edit nilai pada fungsi `countdown(86400)` di kode.
 
 ### Notes:
 - Pastikan Anda sudah memasukkan query dengan benar pada `query.txt`.
